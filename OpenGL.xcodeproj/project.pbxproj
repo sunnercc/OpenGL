@@ -43,6 +43,7 @@
 		1304B2A1219425CE00BD978B /* std_image.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = std_image.h; sourceTree = "<group>"; };
 		1304B2A22194262C00BD978B /* std_image.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = std_image.cpp; sourceTree = "<group>"; };
 		1304B2A5219427A200BD978B /* container.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = container.jpg; sourceTree = "<group>"; };
+		1304B3AF21951CEB00BD978B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 		1304B07821915FCA00BD978B = {
 			isa = PBXGroup;
 			children = (
+				1304B3AF21951CEB00BD978B /* README.md */,
 				1304B092219181F600BD978B /* Link */,
 				1304B08321915FCA00BD978B /* OpenGL */,
 				1304B08221915FCA00BD978B /* Products */,
